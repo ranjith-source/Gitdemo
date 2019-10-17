@@ -8,5 +8,9 @@ public class RestAPITest {
 		System.out.println("post");
 		System.out.println("post2");
 	}
-
+	@Test
+	public void Post2() {
+		System.out.println("post");
+		System.out.println("post2");
+	}
 }

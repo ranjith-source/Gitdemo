@@ -11,5 +11,9 @@ public class SeleniumTest {
 public void OpenUrl() {
 	System.out.println("openUrl");
 }
+@Test
+public void OpenUrl2() {
+	System.out.println("openUrl");
+}
 
 }
