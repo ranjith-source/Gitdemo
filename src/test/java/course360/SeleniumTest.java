@@ -10,10 +10,19 @@ public class SeleniumTest {
 @Test
 public void OpenUrl() {
 	System.out.println("openUrl");
+	System.out.println("openUrl");
+	System.out.println("openUrl");
+	System.out.println("openUrl");
+
 }
 @Test
 public void OpenUrl2() {
 	System.out.println("openUrl");
+	System.out.println("openUrl");
+	System.out.println("openUrl");
+	System.out.println("openUrl");
+	System.out.println("openUrl");
+
 }
 
 }

@@ -7,10 +7,23 @@ public class RestAPITest {
 	public void Post() {
 		System.out.println("post");
 		System.out.println("post2");
+		System.out.println("post2");
+
 	}
 	@Test
 	public void Post2() {
 		System.out.println("post");
 		System.out.println("post2");
+		System.out.println("post2");
+
+		
 	}
+	@Test
+	public void Post3() {
+		System.out.println("post");
+		System.out.println("post2");
+		System.out.println("post");
+
+	}
+
 }
